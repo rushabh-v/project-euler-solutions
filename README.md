@@ -6,4 +6,4 @@ Project Euler is a hackerrank's contest and this repository is colection of the 
 
 __Contributions are very welcome :)__
 
-_One having solved a problem which I haven't solved or that is not uploaded in this repo, can open a PR to add the solution to that problem __OR__ maybe you can add solutions in different languages also._
+_One having solved a problem which I haven't solved or that is not uploaded in this repo, can open a PR to add the solution to that problem __OR__ maybe you can add solutions in different language also._
